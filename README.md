@@ -1,7 +1,5 @@
-#Py-webscrape
-#Python based webscraper 
+#Py-webscrape (newegg gpu)<br>
+#Python based webscraper <br>
 #Alteration of previous python based webscrapers with added features
-
-Py-webscrape (newegg gpu)
-by
-Alberto Frausto
+<br>#By<br>
+#Alberto Frausto
